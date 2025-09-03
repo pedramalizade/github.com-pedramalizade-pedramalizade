@@ -1,7 +1,7 @@
 <p align="center">
 Hi 👋, I'm Pedram
 <br>
-A Backend Developer From Iran
+Backend Developer From Iran
 </p>
 
 # Languages and Tools
